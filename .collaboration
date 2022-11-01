@@ -1,11 +1,30 @@
 [
   {
     "ModuleName": "Tables/文件夹1",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-01T15:45:15.5968651+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1"
+    ]
   },
   {
     "ModuleName": "Table/表1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-01T15:45:15.5958656+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1\\表1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
