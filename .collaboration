@@ -201,5 +201,15 @@
     "LockDateTime": "2022-11-01T15:49:34.9285958+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/页面2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-01T16:19:10.454604+08:00",
+    "ModuleType": 1
   }
 ]
