@@ -19,7 +19,7 @@
       "UserName": "GRAPECITY\\EmmaZhao",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2022-11-01T15:45:15.5958656+08:00",
+    "LockDateTime": "2022-11-01T15:48:15.9396064+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\文件夹1\\表1.json",
@@ -179,5 +179,16 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "Table/Sheet1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-01T15:48:15.9396064+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
