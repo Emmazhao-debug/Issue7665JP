@@ -19,10 +19,10 @@
   },
   "Values": {
     "0,0": "  ",
-    "7,3": "コードの入力",
-    "9,3": "お使いの認証アプリに表示されるコードを入力してください。",
-    "12,3": "コード",
-    "20,3": "確認"
+    "7,3": "两步验证",
+    "9,3": "请输入您在身份验证器APP中看到的6位数验证码。",
+    "12,3": "验证码",
+    "20,3": "验证"
   },
   "AttachInfos": {
     "3,4": {
@@ -48,13 +48,13 @@
         "CompareParamType": 2,
         "IgnoreBlank": false,
         "FirstParamValue": "6",
-        "ErrorMessage": "6桁のコードを入力してください。"
+        "ErrorMessage": "请输入6位数验证码。"
       }
     },
     "16,3": {
       "CellType": {
         "$type": "Forguncy.CheckBoxCellType, ServerDesignerCommon",
-        "Caption": "このデバイスではコードの入力は不要にする",
+        "Caption": "在此设备上不再询问",
         "Style": 1,
         "ForguncyAttribute": "MFA_VerifyCode_TrustDevice"
       }
@@ -62,7 +62,7 @@
     "20,3": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "Text": "確認",
+        "Text": "验证",
         "AutoExecute": true,
         "TemplateKey": "_RS_Outline_RoundCorner_Style2",
         "ForguncyAttribute": "MFA_VerifyCode_SubmitButton"
@@ -144,7 +144,7 @@
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
-    "Title": "コードの入力",
+    "Title": "两步验证",
     "AuthorizeInfo": {
       "VisitMode": 2
     },
@@ -157,4 +157,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//lqnXTssTtR4GRqtrBwwjTiTCraftK4xlIQkYHOZojd5egPLITRgnhg8itnK/9EU3k5FdP/hx7mj6+ZGNjV3pYiJgnojdXQ8ojknNwlZosZpQy1fnHRpcBzA3Mv/ScT4YCHF1V0IXPWCXICSHRKrOSJFbyLSdi906gzn+qWPaRicq/wmtrFWD9kajZrq8T2sjke/KEVbn8uGsLMSwb2nrM6e5p1bBYXN/N7zLwGNfXzF78StsT2wQrE6zWwlbDlYHjdnRNriVezCv/G14ADv8/Bp25+sdTR4DwsztwNudTVdP9q4/GEXcHtP4KGyy6to/D5i880NMzEBvUOLj3cuqs13RZUFVUx6OllqEHzbnxDFo4D0ENGjpOaUqoMAQ1s7ACjY8XTT6ipaEkWVcG2B8wTLm0vA5SxEkXBMwegnUXCB8swnR62D2vxAlcV3odaI9AqQiGcmDwuUexgUinTvnktliaGjzIc+n4MFozyKUN4Xr2RRCI+/+Ux1ShejOnsHJRo94UzQnbScA/eHixLPOa5FAIZfR0hVMWvcyXMiaxgEIBsmeiBbzyk3XgZa8ppQh6rZHhCZw/yXI5uHJNHzhZ3Xch9YJFg9skLp8nxIbOYRVeWYMdw4CyqyvxGinZ4n3QefpoIrojiD7ZxbRZE0+GPnNF8tmtkwznPUh+spHPpBkbh0gz5XqVa0afP+5aNqrHz5DFASkcJmh7EYX+KGypjFyOJdhGnEtfTUhoGdOHCnZUGIgK6aDXsPpmzIkoxPkpsCJ0EILzxsQTkZfZaCtP4XL8qAKapy/4z3bupXqCTCErE25a+mceP3ySavjZFKC9XQQJdQHrYq0Bd5sjl4+V2nlfTJVMPMMINeCvlpLTDk/bGfb/WZlS1IjqgnSng8CTZd+FUyMEs9HqbJl5LyV0w==|920
+}//oPknSRz0vlMNNoHad6FroO3T7MtBW6xfU3/1hX0e2aOW2SxWx3guLWIMW+CPmGJowvPrMbk0vOgw4gusRekF6CsaIMKyiTuxai9QYSaIv0vdPqMZ4H4icWaGZ07KDGckmF0odJFQIObl8ulEJcI3LRm7hXkm50szxnepzCXMp06VfL9yWlWMUbesnNe8lBs8q2ycQ78Ce4aATx1b10U1iEYBcRej8M3PQA+Z4nlzqDFkZo/iBAHVVqrwY+m5EW7vl05/xRpOMPq2HIn4kNDyvA+sUWWPqe+HGstnE3j6rfz1CtbZmjLFVi1SEeiRwwX4QZsKJRviv/HVCBgM0RiudeY3W7ua6nYI2eABhM4zYUbqplyR2LrouJoljbIToxYcvhCNvgmCJ9b6PMy7B0xqx1EvsMWPguhorCdasoXrFwOWZT8GJCj4vvNoZusw636DLNnlAr+v1kH6BhNQiuA498njGQYqNEHYb3yiB9UTDDsB9tz/cLX89fyEtnYUfUEiI0sRSOuIEbjgdLbHqXKv9TD0FLeGWpfLZ93D9Guw4QHtHow7ruqovCXUGHzfG2rHlSNpPaO4KpHJnWu2PkZcWPpd3+5RhYRNC99L1rQ9o+OrVrbA71vyQRiNNvKOh014ZaTLl+yW03rnEWPXVfRC7BP1tOQmExruNG4H/bnSyh6gAhxBeUSWQrPqGB+w5GZl0AdaX09UNFl1zCtSpclwNQ8rsawhB6eWGNOGRpDLVBME4J3vAFM8dBR4v/wamC12MegcvcIMXL+yOku7DKw5zPEo8RM+cMMH5p3E0Ihuj2xCX7j4RBMgSDcCESvhZrO9FIbLLlJYpm8Uy2XKXJSYzWZcrZxX6nrxgNIktqQUUrHi0NU1UN8LzNZJtVxosVF3k3X7txNSyGQKPuwIFsAagA==|920

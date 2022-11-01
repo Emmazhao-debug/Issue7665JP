@@ -70,15 +70,15 @@
     "Count": 47
   },
   "Values": {
-    "5,12": "パスワードの変更",
+    "5,12": "修改密码",
     "9,18": "*",
-    "10,17": "現在のパスワード",
+    "10,17": "原密码",
     "13,18": "*",
-    "14,17": "新しいパスワード",
+    "14,17": "新密码",
     "17,18": "*",
-    "18,17": "新しいパスワードの確認",
-    "22,25": "パスワードの変更",
-    "22,31": "キャンセル"
+    "18,17": "确认新密码",
+    "22,25": "修改密码",
+    "22,31": "取消修改"
   },
   "AttachInfos": {
     "9,20": {
@@ -132,7 +132,7 @@
     "22,25": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "Text": "パスワードの変更",
+        "Text": "修改密码",
         "AutoExecute": true,
         "TemplateKey": "_RS_Normal_Style2",
         "ForguncyAttribute": "ChangePassword_Button"
@@ -141,14 +141,9 @@
     "22,31": {
       "CellType": {
         "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "NavigateType": "back",
-            "PassValues": []
-          }
-        ],
-        "Text": "キャンセル"
+        "Text": "取消修改",
+        "TemplateKey": "_RS_Outline_Style2",
+        "ForguncyAttribute": "CancelChangePassword_Button"
       }
     }
   },
@@ -240,9 +235,9 @@
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
-    "MasterPageName": "FGC_ユーザーマスターページ",
-    "MobilePageName": "FGC_パスワードの変更_モバイル",
-    "Title": "パスワードの変更",
+    "MasterPageName": "FGC_母版页",
+    "MobilePageName": "FGC_修改密码_手机版",
+    "Title": "修改密码",
     "RowBreakLines": [],
     "RepeatRangeSettings": [],
     "IsBuiltInPage": true
@@ -251,4 +246,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//PPic62si1bSZAzo1Z+cRBYbGRkhM0uGsPYvI+aeEO6yeVPFCjNznUqcIPM+jQAuPVZDBHZifTxIO/MgQGSj5CSozjGDs9OREzumN1QEWdFnFoP7kHGPeCM27vL21FeljRe2tYoaL+MD/eT/K5nK9wDOc95fs24MGyRvXpdshT7ZqEinf+upEYz3XUi9SzAejFe/WQOyfoJhnvos5Kd/4DvL6jPQ5dfg/erXq0uDqM/Xq8CNip0SN9EeIn30M4GJ171O3UObHNUnucN9mCFxJZok1ei1gxeKlG0vgJGY12+Z+tuTYIeLAjg4sinKrdW/QTnVwkX0vPoJNS84aV9gdBWDZIzYQ5ZH2ZE0S2/YzNPuuVXD2pTxUzqL4OYhKCN4NyB7tN1hhGEYBnx5QNRLRfyIr3iWQ/HAOUNgVLzvGsatBhLZGB1sHtrWOBkQHdFxhUAe3WtgkjPT17T21Ms3yoMjMez2k5etNSf2/p/O2Aa07Cibjn42V1Pm1SPbYn5qyniSaVcF8V8spzOwZZykECRka4bDekGegwtqn255Wa7taLR5miee3Ps2MGriWd+MIgkpi025PT8EHz1W17sKQ8wDUUkslW5mONwMGLAhQj/vJyx73bUDL5PU746oNX2TozpqfWZrmt/ViPWE5tUMWLzk24eiW0DRN1KPDb7VuJdJW/mvSDIBD6mLonBB8NjiQG6Cg/n2AlNd06+/Jf+6dYEjdILmGWHPUbcuF0RvPU0HWlRg/JWgiBRTIY/NcsEpupECyAbvLgRiBb4spdteL+QO5+cCSH4kru0/HvaEiCJ6wEV0eKZ+u44bjsB4NYl7A4u6Xyc3vSrCmvDjD+C3lwkU6KyOnVoK2+rDFgjFssumM8V86ajEeHWIIALnqPiuZVK9bS2hR7NCtmANpWW7+9Q==|920
+}//m6gUZMWnn+zO9+Z4HGiY6cE9SRkYxF2wvQSrdGPsKc1x+rBeunT3XFvCsmOL10BhZTvru8JOpDCDJFok7JjHd/GT/d4ag4YJLzcQVvejeTMQMukqA7NdTKvfMK1/MHKUYP75RBsj0zLOnosQsrE7Luv+hVcAAIoAqUBXrrhTTyFtdOakvMg19fiCCe5W0oWb7lTlwpa/t9Y74OrEM1BhxW8cy6lqeAUAG2fvI7U3iUxhuurg7r3qVNH6v0EXf4V80H7cfi3prxneC/gT17C32rEGUVFXZm+zcs9LvzAsNazzLCzXQgeQUZof3Fe6LXy7bFNFRWmhHS3gUbXpRF1g0iKXOCwpSoQIXXo66H61CD4x0gjkkb2f61YrswOaBRtZw/6ck6xSkIc7EDb0wJsOPtbKmaYKUUzVNhzRadOHflMhe84P9RZyTIfMmT8kszJLQT1d7Zf9JBxqY7+/3+HCnOACCgtx30xs/jecYnMeIwUrLtucEAXT8SI5k9xMu/ySC8xKM9u5LAUNIXLS3ItFuuCD0zQWLBU6lLr+1y4jRN4EqeMd94EWBHUMKYFM8xfg2tRTNaDvrDhWljkTLgsDNUB9ia93tlM9iLNaLDvxrfRlQyjPdo1zIbadVB0Hr0+C4t/3DPIvcNacL2RnO4Jjc314lvHSklQldTnbQ+0pS5rNm58/vNn4Ig3vBbECf3JgXSLdrEBpG3S3Afj6r1mmIGEB7M9snqUoyhktGNEmoxeSa3S8HDfFBp25U0eDWmNscmzWqBTfN2XUDGqEqCgPZ6NFFNx6js+wa6csqF5C/t9QN0Bx59JdMNO4Q8+lPx4siGCm6kfYVuQqKmzSSfsCyn+NL6schrIiPwHTnCVKcxEZpRIbVaQcmNKd+kNazHS5azgft8XZ+LJTp3dSYLI+ZA==|920

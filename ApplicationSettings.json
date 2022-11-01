@@ -1,8 +1,9 @@
 {
   "IntegrateWithOtherApplication": {
-    "Password": "itJ^g!N^8ZrH"
+    "Password": "aQZ1f8%c84h2"
   },
-  "WebSitePort": 56494,
-  "UserServicePort": 20281,
-  "StartDateFiscalYear": 4
+  "GlobalProperties": [],
+  "WebSitePort": 56169,
+  "UserServicePort": 47848,
+  "StartDateFiscalYear": 1
 }

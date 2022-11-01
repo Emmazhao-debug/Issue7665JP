@@ -18,14 +18,14 @@
     "Count": 47
   },
   "Values": {
-    "5,11": "ユーザー情報の編集",
-    "12,15": "プロフィール画像",
-    "16,15": "氏名",
+    "5,11": "修改用户信息",
+    "12,15": "头像",
+    "16,15": "显示名",
     "16,16": "*",
-    "18,15": "メールアドレス",
+    "18,15": "电子邮箱",
     "18,16": "*",
     "21,24": "保存",
-    "21,29": "キャンセル"
+    "21,29": "取消"
   },
   "AttachInfos": {
     "9,17": {
@@ -89,7 +89,7 @@
             "PassValues": []
           }
         ],
-        "Text": "キャンセル"
+        "Text": "取消"
       }
     }
   },
@@ -178,9 +178,9 @@
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
-    "MasterPageName": "FGC_ユーザーマスターページ",
-    "MobilePageName": "FGC_プロファイルの編集_モバイル",
-    "Title": "ユーザー情報の編集",
+    "MasterPageName": "FGC_母版页",
+    "MobilePageName": "FGC_修改用户信息_手机版",
+    "Title": "修改用户信息",
     "RowBreakLines": [],
     "RepeatRangeSettings": [],
     "IsBuiltInPage": true
@@ -189,4 +189,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//KdB8s+s3kG0L60r8KpJ1jywggRmKQ1eswS56kdUwtYW1IO08K0ljg4QbyizKLR5+E+W7IYxtddhFDlPF5NZv8ATTcUgsevkSxW40DT6EOxBrWHEQORAp9vQmxRSx9/gQ/OitDV6d8u4eJ5YJrrlcl/oZGX1ygH8zso7jLT0FlhxtI5LhbrVv1IW58urfLzNf5N/GClyxhe52FPWmdcgAYxfQpTuWzCzu4bZXGllsObn7aAFZb/uwx83NAYSIPS6yWJooH22L4YOl4QGJLFwOq2ecVwh5ZKtLSMHFQVlPnRD4d965oEoGcNaCZeBz7mqy5NSftKt0guPpE4WAFvpxWOKMvYyf1jaS6FuvplFzsByPqjdlI49mXhTvSrgfBI/0olmOpRH6Wi5piaYS4+2VSij++fBmA7zrTemA/wKBz/QO3LchfjPkqnk+BV+cu1tmdZWhmmUeghsivYKWZJa5Ipst++Fl6Ne6KvFYQlUgMabv0Dc6gQh4UDogiENQGNE9bQftp7j7fmaNRtmrTQ9OC1TmswZD0uP87No8VYFZ+Z0ks9ncRqeebUoE5iE/h1J/HVqILl5+DgBYGLO3PaPbJJ8Jh0SIz6BdmVnLhcTbArEW502HPzbfYjZVMGMueERHDAmCazmp4mUvqy3seCZ6qv2ucTUxyPv9BnGaC9DZpyypZiQyJM8BA23a3JJ1R5jMY4Ft4Mzm9MFGNbZBdSh8kPiUKIKYI00gE/b4uMOqALBK3nYVtyfqgZwkj+6kkNdwZHaVDCVW1DrficFWWqC6Szen6BeQxWbPpAQRqi/EJggXij1uRRqERLyufKYQBVXX7clWIqs0yDVHZNGWcR6wElqAbunWdYmaXghdQG/qLBVR1lEX7OSE0VfIwFsAmQkv7nDzZopdd9Yc6cFlx+46yQ==|920
+}//oIi5e9Kg9IKkew8OBCuvBNn5pbhTpUHgb1D2ZK2jb81ssFNHM99Ubpa7j0QmzxrMDIwe6w6zO9u5OIkEfwmM4m4mGJW9Bnp2AlKkZreakhmqi/7DNHfiq0gfxVpJt2TP2k6VPytsZE8yfrqiYi1zXaNAOUHBhl8mW7uUk/+0FqO6BPrY8/YY/fRJC0Vncc1wYpUrsv1dQIVpb3A1zbYmp76FmzQMdxqhsyiD5j/SF8NVMMmLp43be2v1NnqnpW9FqaI9qQlkO3ljLJTSN16rFtSHJNNWIeuj4rQKO04j9Umk3w16ZCo+EnddkfmkPtuu8whUmb4Mv5S/nIO+dnlS9EnMGmNuy6Xnx4P7rMsi8pOiQEWD+y3YoBZ++HU24K9Pxupwu5o/4JutJ6ZaWtli7Lpa32heNSg+k1BgrvjDrQMZVgYM4prCxhlgnKgAWfTY4/n5hoMcr9qK4Ot6QEZSZcbJAzImGOV8PeGoGZo7Qr3PcRkzEipvfV67GTl8gsvDzFsk2iQ8aHBuU+AxmqwjG005DN4cEmLnVnamMgUWVCNNRwULYCdFIpCalKfnUM140+pwSx53d1UxBYmapMRkhrmWeriyrczrFKDFyMK1B/bdzoWghsVih4EohA6TRQmeD0rmhhRPUxmjU6qd25R2ONHRxpMind0a/nW+2yZ6HulRgy3Rg0qFdpxFOWj4z8E0cVk1znbwd6fhEKQT/sAcVPm5FfFOtyc0p7+jn14JHJRY+gLHq/ZpzTTi5cUjAjDla8qmI1+uuA6hcIggt8DVov7NYvMg4O7xFrrVuMpETSLBLALQFMUAmkDtS3qsG83/BDSVHWoGepfkq83szySrIRNCPjdxRe0G0P8BrFdyPQW2BUXBR7c9BuC2ecJpdiK5ZKuGKuKIWARLr8QBpxYk8g==|920

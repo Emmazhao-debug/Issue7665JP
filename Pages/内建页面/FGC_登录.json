@@ -43,13 +43,15 @@
     "Count": 56
   },
   "Values": {
-    "13,21": "ユーザー名",
-    "17,21": "パスワード",
-    "23,21": "ログイン",
-    "26,21": "パスワードを忘れた場合",
-    "28,19": "Administratorアカウント",
+    "13,21": "账号",
+    "14,21": "Administrator",
+    "17,21": "密码",
+    "18,21": "123456",
+    "23,21": "登录",
+    "26,21": "忘记密码",
+    "28,19": "默认账号：",
     "28,29": "Administrator",
-    "30,21": "パスワード",
+    "30,21": "默认密码：",
     "30,29": 123456
   },
   "AttachInfos": {
@@ -103,7 +105,7 @@
     "21,21": {
       "CellType": {
         "$type": "Forguncy.CheckBoxCellType, ServerDesignerCommon",
-        "Caption": "ログインしたままにする",
+        "Caption": "保持登录状态",
         "Style": 1,
         "ForguncyAttribute": "LogIn_RememberMe"
       }
@@ -111,7 +113,7 @@
     "23,21": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "Text": "ログイン",
+        "Text": "登录",
         "AutoExecute": true,
         "TemplateKey": "_RS_RoundCorner_Style2",
         "ForguncyAttribute": "LogIn_Button"
@@ -123,11 +125,11 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "PageName": "FGC_パスワードを忘れた場合",
+            "PageName": "FGC_忘记密码",
             "PassValues": []
           }
         ],
-        "Text": "パスワードを忘れた場合",
+        "Text": "忘记密码",
         "ClickMode": 1,
         "TemplateKey": "FGC_Style5"
       }
@@ -233,8 +235,8 @@
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
-    "MobilePageName": "FGC_ログイン_モバイル",
-    "Title": "ログイン",
+    "MobilePageName": "FGC_登录_手机版",
+    "Title": "登录",
     "AuthorizeInfo": {
       "VisitMode": 2
     },
@@ -246,4 +248,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//WY0DX3tqwFLoV9zIin5mboSIbtmDlg1y68QWpo6eb6zBsvHs97EZsxNhHETyWRs/k5Xus4cpBQwdhMDTmFYB7m8gW81z4VW6rLcQBjDMd1zTS2f/mZKdt3xndD/fsOcrwbgHE8YOo8lHMnrm6jkfLYUwcPUdUdtBlLTrKEu4dSZF5dNBsLp+5MwYnv7R+SLNW5nwOYpKHTBbFwli2Hk6fXkbhlLOC7b4t2QtPXLSAzCGTYd4gj25R36CYyzwuVCr8sNkbUMd4XC2K9M1qni2qXtKnPyrkswxzAmGkCDHJx04qpFJH5Trc86YNtaaTMZm5ayNe0wox4C0KyTRtpbnhSM4Yinh4TICZMbnvyQ3fy2KbzwsW8cLDeetdWtii3JOw0yhmM2wn2RV622ERovo5jyUvEQC3kazvxItEChziV+UH8eoYxP5twHqdX+ir7d6cSeb46D06vsFoGmfP75L+Bh7vupBmEYQU7kay6nVe79YHxnxPp1GiBdPq/Ah94VY2srKrXzSBADyEvFLC0lyX7ddGk5/uMl6DmBJrIFGpynsGLZWBEKPfhKHiFKDv+XMIi9MUdxQOaDiY8u+bVONJc0kojoxlXOrABWjZg9/vUYEGGnVWQ2TzcaSvww09L2bhmjvTCqnY7Vws9WadREE7JssoLdJON8Zn9TeaRLK3fJJZCPkcxRxefGkF3Wpi94cwSTb0XMMHZHfD8rKOuw21YzKtbpa1OH/QhmEcrNCGd1uRTxwQTSG7c2C250THgBPtWffbdqApxVEPV9nhPdp50o1YXit21MJbyvbEBISrqqFx6FoIduZo/nrP6GZqayDZu/yXcHy3KZ4AqJzb4vgHr73+XSiDbBhlfgUppdFNqTFt9JZYBBfv+/amHCiAc9qIJQ8IIOffsfhx0MN7BwJmw==|920
+}//DCafzf1FbOnZLHla4mJJnE8Ayo+MtnY11+Dp7vYnCEwFBoINlpnqKdUTnIU3oFdYV23RhtO66jJIplZVcSd751zncRP3WZFSnKwECSJBh0aYAep9jrSS1yAUoxyFN11y1xWGTQpiP+eUZyaLuKrLJVvult2HA2CIwbIkQrFjKZ5sGfErd6XUYDvPBuJ8ct+0uEX19pw9AXMpPikY2H3GNYS3stAPOPIV3TJFiHfqTGasaTD0dJI8cyw9GAQRSI1c4D7Lh335wGQ2xgjP+bJTK9epF6v0yIfwB/cKazihHlr8WvOrhuqe2B8/i5QSR9egQpqIWZJUxJ/oegEtK9ICn/C91m28tmMy88X3VNPbcEkrKyeA5o2gHioWAoKXhFMg2wvtr/P+9Gr20DUI4RaJhpwzy777oCyeKqSadhacGaSpsOk0IvQmI8tVrRQagDxBCrlBalpllqsrY+8bCsmMhs5uxaVo7UuGwxzb2JEQ1knQ1YJfjU2/YisSJKxXLGooy7SvT+tcKnJqPdH9FYDt8z8lJj6wK+RFd/KsVtRR3Y08Q5FYykT1DNT+2otWzdg6qAjRmvcM1bTiCF1xsPehvvUuUwVwL/BZmLgE3Ro+8bZPUg+PZIDWGrqc8ITqDId7dmcLAnGi5Pl/RXswyyHFrSIIe/G7He7tf/oXA/V5QkHEHcPI9cs03Mktvmggx10xsguOi6lpqXdwMZokPAl2GOb+SH7nJdKPmB4Q0SwhERkgtHH0YqinqmPBspJZj68SrgXBLdk9+govDhMXr72gZElwEONeDy1KxgxUyZDYEKBZW9JMtFyAvXxUDJiCkXu6k3OL6AMFFHCCrijq/NeAxR2Sa7Q41j/0OcO7YutbUAlYQWIzAfJtFpDcEUNhReUMRAM7ayDR0zzvVOzdHFFkwg==|920
