@@ -1,0 +1,96 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,14": "模板命令测试",
+    "5,2": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Formulas": {
+    "7,2": "LEN(C6)"
+  },
+  "AttachInfos": {
+    "1,2": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    },
+    "1,14": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "6fe40f8e-944a-4043-a791-507275f6b3fc"
+            },
+            "ReturnPropertiesTo": []
+          }
+        ],
+        "Text": "模板命令测试",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Formatter": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "@",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "1,2": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 1,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,2,2,10",
+    "1,14,2,6",
+    "5,2,1,10",
+    "7,2,1,10"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "UserJavaScriptName": "JsFile.js",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "information",
+      "Formula": "Page1!$C$2"
+    }
+  ]
+}//nBz2n8YL2LS67Jjp7HpHDlrjmlBCODPfQL015sCSvNUI6YayRVRUOSWJlYFZw6KBdStp3+3APX+V+QA85jp38XC95T+KrQbtDGvuq5fKclZfuKWG5yo70RXxptbpxmq1C/xq57W5C+NL1n4ajQEfMFx/LEkXErDcJggGQwELb/UjXXL1y64Zo7r29IT2nZtgvMbk5Gilo81zdmYrk3xxxYyQxE6P+dO6oPV6ca+GJ62BCH2S8gh9kK0ny2B66PgQnfdFb9tYC93znXBjNzq3CGr8vfLUv1uTCdnQKbX92t82IaFxSO/x5GPdPEEg7o9PzHh8kOQBoW0KTL01cCUjVCkhNftzXs3zjN9wyY98vOg61toA6rGGpPfb5nttr0VMk85iqUVuBTCFK9opRItaYRMvU14CRj1jWCaXyFW8FKqHLVvgzwCwTj1bFmWiIxoy4BCAwT9aPJ8kjnM66c7gqjEHUCXw/XFTY6NQG8eUUFh+yfIfEWU1nvJudOOEP/4e1DJZkKXr1cbi3doMNBBj2WbMq/O3tjPfo+pwHz4omp633C46+/nllfKXXnGdoBBlMKI32u6FnWlVynE8xZaC3e4ne1iB22KbOUhBjVCBniHIZ8E8yLWLLbucMiTJ1FhIDFZmjh8MBfJyJCpwsvnyVCbpkJOZ6xPKSaJuofnfCoKsDzrSjwikv9mtYH7gp+iaA3ZcAG33feOIpg1ZiU/Zo4cW2jWstc0IalbHFjDKERC75+yeJw4Y8z4UJHISanEvTuHJnfXcMEHlixNf8yTF/+wrBDWcHa6tIVtjKoRtga7u5AHVSBZi1YFyyj57W6dF1/y8yXppbPfY0thxw9ouYpr753kbKCyTWT5n/6OrzIR7S7nw5iyo395i7V0yoJTb7//vpLf1JMbDPYtfLfxeFQ==|920

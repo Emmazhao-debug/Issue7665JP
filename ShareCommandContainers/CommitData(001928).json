@@ -1,0 +1,11 @@
+{
+  "ID": "321a6a26-d36c-477e-9f78-96495fec9933",
+  "Description": "information\r\n",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+      "MessageFormula": "显示错误信息\r\n"
+    }
+  ],
+  "Name": "CommitData(001928)"
+}

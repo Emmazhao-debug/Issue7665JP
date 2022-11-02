@@ -1,0 +1,11 @@
+{
+  "ID": "e72f8bcd-4ebb-4d28-881f-20b1092e6155",
+  "Description": "information\r\n",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+      "MessageFormula": "显示错误信息\r\n"
+    }
+  ],
+  "Name": "重命名名称"
+}
