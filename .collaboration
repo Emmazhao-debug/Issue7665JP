@@ -64,17 +64,7 @@
   },
   {
     "ModuleName": "PCPage/Page1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:52:35.8327372+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Import Folder1\\Page1.json",
-      "UserJaveScript\\JsFile.js"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Import Folder1",
@@ -126,32 +116,14 @@
   },
   {
     "ModuleName": "PCPage/全局变量和单元格名称",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Import Folder2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/全局变量",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
     "ModuleType": 1
   }
 ]

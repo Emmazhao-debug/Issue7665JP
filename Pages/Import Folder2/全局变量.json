@@ -1,0 +1,66 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "4,3": "全局变量 string"
+  },
+  "Formulas": {
+    "5,3": "string"
+  },
+  "AttachInfos": {
+    "2,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "全局变量和单元格名称",
+            "PassValues": [
+              {
+                "Source": "aaaaa",
+                "TargetCell": {
+                  "SerializeProperty": "=全局变量和单元格名称!string"
+                }
+              }
+            ]
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "2,3,2,6",
+    "5,3,2,10"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//VbSnIKLEhBpzVaNz3rXlk0KR01/oF6FnQIvTuojEor6rajEAg0ZweCBXO0uL/6Z/bxeFduqBlw384lhvYIB0ufWzuj0E2x1LwbIlzGIgw1BI86guVPnip22q0nq1ATo7gRwkDpt3+P66tOLU74vg8FE5NBI9/4FJiiz9/ehX5gIbkt4KqMOP7etqs1WfAaQmbDjhLLYg9tLR8MO4xzErUTxGrOZ+Z/NtjT2e6hFcdjK6DVcqPP+k1zQE1fA1CeiTUUPgsmYfuwYcpQ0bsmN/OuaeNtw5zGXeFvJzNYt1KTaNH3is5x4qycm2cCnXG0XYNZkGEeIUa17ql5Xk44raDtGT7MoDKHe4SqTrhAtUTngOEhwvm6PXIsUIexBumnHAZAkV7s1IO0dYeJdbfD+l+5T34gJ2Jcp8uqIB26aAh4OnkJh5l2x+WHE+IhNovpS3A6DCDfJ85Py7Ti7HmzzpeYAViZS8dgS9V23/v7yepHAjxGira5D2oN4ucYD9+0V2YYFoqa7zaINe3zROrFtslOfYOxCcs9pw39mUEGLQ9Grt6o/jyf88OrfhqSk2J9VnuYrjkrhLs4fkhHA+KvE9ZAZ6cUkR4p0fi9BTv/YV66Ji5/jiLDX9oCayuIm6+xIChdodCYoDRG/2Tnzq1p3Cya/sqJaOwhMhXV049VyK6JebHKdepFafW0YhyPzWq/LTjuqucILcHVHZNmyRy8yx/xpeMX2tgcBRPOV+gM5lv+CKpITV9bheKRLtlSWOxN3024ADb3N/0zXnNGUOUodR4fuVbNJwZ5ShCkT70UllEhkx9p58OWq8pOY8w58wQpc/PQ1xqFOhsYFGtjy3vsYBRu3zooMjsATAcrT4kVXuIgqrjiCkvOvjAoJ6EGPOjZ4NetsTjUP0d3iq/A6JIiJUhg==|920

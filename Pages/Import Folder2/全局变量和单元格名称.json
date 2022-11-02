@@ -1,0 +1,108 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "0,3": "全局变量 string",
+    "4,3": "show message",
+    "6,3": "单元格名称为string"
+  },
+  "Formulas": {
+    "1,3": "string"
+  },
+  "AttachInfos": {
+    "4,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "ElementUI.Commands.ShowMessageBox, ElementUI",
+            "Title": "Title",
+            "Message": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=全局变量和单元格名称!string"
+            },
+            "Type": "none",
+            "ConfirmButtonText": "OK",
+            "CancelButtonText": "Cancel",
+            "AdvancedSettings": {}
+          }
+        ],
+        "Text": "show message",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "7,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Formatter": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "@",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "7,3": 0,
+      "20,32": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 1,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,3,2,9",
+    "4,3,2,9",
+    "7,3,2,9"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "string",
+      "Formula": "全局变量和单元格名称!$D$8"
+    }
+  ]
+}//RRE9O/Xxw9KFiQ3tqxHEYF9G+oF0xsGlQQXFlDL658kKWpqLhFkcmwWFF1e8hOZYxH/mNzpQZ1l9jhkpIy3/FoRzwMIAlzayXHVhZVDmrrJW0uaFS+OQa8sDrM7rJMbgI/VSp4zAeL/MdMPefHXsoywr+pXnVFLHf7Tj0PyPAai//r6k6WSlJaKs763VvyD+e8IGV+nNWX3biHtUJQwEj422iNBhTJDKycv0ahnADf4mSNXLdBWorcCajS3WPm2/v+oKequ2r7nLzbFJbyR6TDYEyHd7uURjYBWk1yhjoEIbXNJ8aZK5O1+FiTJOECl9CFWZZvIcKVHMGACW1oqaleLOcQYuCr0AkP7plHNiV8rkncA71i0RUuD+Jfc6dWRVnI6CbpoLPS5NU2quYc0jkN/iArTSw8+QprO9WoC/d2/sv0HFSQmZsc9jGqlPLtsERzNqq9vvyo47M5DyFJnbnXDYB4DtsAlcbR6wL/A2c65Ax0rNqVTbLonofhU0JWDmXgX66PiOhF9ZwBzoE8Y7Ql1gnisAsaBPShUOKVyKNLc29frOMzAChlBkOMxMQIRl0HgHy6Agpub+wHVsM3/NAmJ+VASq3sw8aKLCXBYoYWMnLmIoxwXyj51dxHYdrP0I2dAh0WVobhxKpHO9KMxkqAiA4TERLLSSf4gGVguBC3U+EPiIN6oRy9PEnyU+EfZMh9xavwA1TDzZezlOQNgUq0lGOJJkcZq9YM8M1KqtjLVaKcBYNF62HIc868chK24itqMV3lE8iWLQboiKwfHxbP8zhsYAtQx5plvcXglvV+En3zJNBc0p2yd+ukuEFE6RWHrA0FLjwpeqFpFKwjxla96YiwVisBvsWipo0K/U7/PGE+5TvDYXFS5aXIenmEvZDzusc5tYkMUqhjihXyTKIQ==|920
