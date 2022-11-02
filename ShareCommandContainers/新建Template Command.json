@@ -1,0 +1,18 @@
+{
+  "ID": "5dbb4b57-4287-441f-92aa-d7433c96aadc",
+  "Description": "information\r\n",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+      "MessageFormula": "显示错误信息\r\n"
+    },
+    {
+      "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+      "ShareCommandContainerRefer": {
+        "ShareCommandContainerID": "321a6a26-d36c-477e-9f78-96495fec9933"
+      },
+      "ReturnPropertiesTo": []
+    }
+  ],
+  "Name": "新建Template Command"
+}

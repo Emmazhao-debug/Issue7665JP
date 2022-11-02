@@ -10,16 +10,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:34:18.6549252+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -72,19 +63,6 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "MasterMobilePage/母版页1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:29:01.19221+08:00",
-    "ModuleType": 4,
-    "ToRemoveFiles": [
-      "MasterPages\\母版页1.json"
-    ]
-  },
-  {
     "ModuleName": "PCPage/Page1",
     "ModuleType": 1
   },
@@ -106,12 +84,6 @@
   },
   {
     "ModuleName": "ShareCommandContainer/新建Template Command",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:34:55.5708969+08:00",
     "ModuleType": 36
   }
 ]
