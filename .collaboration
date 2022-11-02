@@ -26,30 +26,11 @@
   },
   {
     "ModuleName": "UserService",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T18:04:27.6917667+08:00",
-    "ModuleType": 11,
-    "ToRemoveFiles": [
-      "UserServiceDB.sqlite3",
-      "SecurityProviderV2\\data.json"
-    ]
+    "ModuleType": 11
   },
   {
     "ModuleName": "CustomLibrary",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T18:07:25.2328299+08:00",
-    "ModuleType": 12,
-    "ToRemoveFiles": [
-      "CustomLibraries.json"
-    ]
+    "ModuleType": 12
   },
   {
     "ModuleName": "MapJsonFile",
@@ -143,15 +124,6 @@
   },
   {
     "ModuleName": "PCPage/全局变量",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T18:03:14.521734+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Import Folder2\\全局变量.json"
-    ]
+    "ModuleType": 1
   }
 ]

@@ -1,4 +1,12 @@
 {
-  "UserJSFileList": [],
-  "UserCSSFileList": []
+  "UserJSFileList": [
+    {
+      "Name": "newjsfile.js"
+    }
+  ],
+  "UserCSSFileList": [
+    {
+      "Name": "NewCss.css"
+    }
+  ]
 }
