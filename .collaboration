@@ -92,7 +92,16 @@
   },
   {
     "ModuleName": "Image/Information.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T17:17:41.1309676+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Information.png"
+    ]
   },
   {
     "ModuleName": "image/SVG",
