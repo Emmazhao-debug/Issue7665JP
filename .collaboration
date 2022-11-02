@@ -113,5 +113,35 @@
   {
     "ModuleName": "Image/椅子.svg",
     "ModuleType": 38
+  },
+  {
+    "ModuleName": "PCPage/全局变量和单元格名称",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/Import Folder2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/全局变量",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T17:48:58.0604065+08:00",
+    "ModuleType": 1
   }
 ]
