@@ -240,5 +240,75 @@
     },
     "LockDateTime": "2022-11-01T16:19:59.3216958+08:00",
     "ModuleType": 4
+  },
+  {
+    "ModuleName": "PCPage/Page1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7265615+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/Import Folder1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7265615+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "ServerCommand/Server Command(00901)",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7285614+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommands/Import Folder1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7285614+08:00",
+    "ModuleType": 20
+  },
+  {
+    "ModuleName": "ShareCommandContainer/重命名名称",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7305615+08:00",
+    "ModuleType": 36
+  },
+  {
+    "ModuleName": "ShareCommandContainers/Import Folder1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7305615+08:00",
+    "ModuleType": 35
+  },
+  {
+    "ModuleName": "ShareCommandContainer/CommitData(001928)",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:15:46.7305615+08:00",
+    "ModuleType": 36
   }
 ]
