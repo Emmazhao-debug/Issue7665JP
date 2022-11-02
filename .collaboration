@@ -96,52 +96,22 @@
   },
   {
     "ModuleName": "image/SVG",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:56:37.834182+08:00",
     "ModuleType": 37
   },
   {
     "ModuleName": "Image/冰柜.svg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:56:51.67072+08:00",
     "ModuleType": 38
   },
   {
     "ModuleName": "Image/吊灯.svg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:56:56.6499421+08:00",
     "ModuleType": 38
   },
   {
     "ModuleName": "Image/摄像头.svg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:57:01.7954937+08:00",
     "ModuleType": 38
   },
   {
     "ModuleName": "Image/椅子.svg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T16:57:07.1208026+08:00",
     "ModuleType": 38
   }
 ]
