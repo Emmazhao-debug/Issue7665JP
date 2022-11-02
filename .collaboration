@@ -112,6 +112,15 @@
   },
   {
     "ModuleName": "Image/椅子.svg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T17:17:24.0000668+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\SVG\\椅子.svg"
+    ]
   }
 ]
