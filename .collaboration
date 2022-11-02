@@ -103,5 +103,15 @@
   {
     "ModuleName": "ShareCommandContainer/CommitData(001928)",
     "ModuleType": 36
+  },
+  {
+    "ModuleName": "ShareCommandContainer/新建Template Command",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:34:55.5708969+08:00",
+    "ModuleType": 36
   }
 ]
