@@ -123,5 +123,15 @@
     },
     "LockDateTime": "2022-11-02T16:56:56.6499421+08:00",
     "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/摄像头.svg",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:57:01.7954937+08:00",
+    "ModuleType": 38
   }
 ]
