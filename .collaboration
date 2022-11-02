@@ -33,7 +33,16 @@
   },
   {
     "ModuleName": "MobilePage/FGC_登录_手机版",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.4106309+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_登录_手机版.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_401页面_手机版",
@@ -57,11 +66,29 @@
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_两步验证_扫码页面_手机版.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_两步验证_验证页面_手机版.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
@@ -81,7 +108,16 @@
   },
   {
     "ModuleName": "PCPage/FGC_登录",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内建页面\\FGC_登录.json"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_401页面",
@@ -105,11 +141,29 @@
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_扫码页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内建页面\\FGC_两步验证_扫码页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_验证页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内建页面\\FGC_两步验证_验证页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_修改用户信息",
@@ -159,15 +213,42 @@
   },
   {
     "ModuleName": "image/内置图片",
-    "ModuleType": 37
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.4096313+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\内置图片"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "ModuleType": 38
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.4106309+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_dark.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "ModuleType": 38
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_light.png"
+    ]
   },
   {
     "ModuleName": "UserService",
@@ -238,7 +319,7 @@
       "UserName": "GRAPECITY\\EmmaZhao",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2022-11-01T16:19:59.3216958+08:00",
+    "LockDateTime": "2022-11-02T16:16:50.411632+08:00",
     "ModuleType": 4
   },
   {
