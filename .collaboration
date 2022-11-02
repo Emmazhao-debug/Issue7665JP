@@ -93,5 +93,15 @@
   {
     "ModuleName": "Image/Information.png",
     "ModuleType": 38
+  },
+  {
+    "ModuleName": "image/SVG图片",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-02T16:54:03.0953+08:00",
+    "ModuleType": 37
   }
 ]
