@@ -10,16 +10,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:34:07.7521251+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -65,16 +56,7 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:46:07.063903+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/页面3",
@@ -110,16 +92,7 @@
   },
   {
     "ModuleName": "Image/Information.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:17:41.1309676+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Information.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "image/SVG",
@@ -139,15 +112,6 @@
   },
   {
     "ModuleName": "Image/椅子.svg",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-02T17:17:24.0000668+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\SVG\\椅子.svg"
-    ]
+    "ModuleType": 38
   }
 ]
