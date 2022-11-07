@@ -22,7 +22,21 @@
   },
   {
     "ModuleName": "Theme",
-    "ModuleType": 9
+    "State": 1,
+    "LockedBy": {
+      "UserName": "XA-DD3-FGCW10JP\\forguncytester",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-07T12:01:53.3595125+09:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "Theme\\Images\\PCMasterBanner",
+      "Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "UserService",
