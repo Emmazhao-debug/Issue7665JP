@@ -124,6 +124,15 @@
   },
   {
     "ModuleName": "PCPage/全局变量",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-08T15:34:23.2180986+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Import Folder2\\全局变量.json"
+    ]
   }
 ]
