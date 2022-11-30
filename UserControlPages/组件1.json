@@ -3,6 +3,7 @@
     "RowColumnAttachedInfos": {
       "0": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -14,6 +15,7 @@
       },
       "1": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -25,6 +27,7 @@
       },
       "2": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -42,6 +45,7 @@
     "RowColumnAttachedInfos": {
       "0": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -53,6 +57,7 @@
       },
       "1": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -64,6 +69,7 @@
       },
       "2": {
         "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
           "Mode": 2,
           "MinLength": {
             "Unit": 1
@@ -91,10 +97,13 @@
     "$type": "Forguncy.Model.Pages.UserControlPage, ServerDesignerCommon",
     "PropertyDefinitions": [],
     "CommandDefinitions": [],
+    "UserControlPageIconConfig": {
+      "Name": "oskar-smethurst-B1GtwanCbiw-unsplash.jpg"
+    },
     "PageLoadedCommandList": []
   },
   "PrintInfo": {
     "PaperSize": {},
     "Margin": {}
   }
-}//7kO5bAaOJ7imujtvHWOqoTsp+oJbuC4dKBE0GYOo1Xr0WBIHLF/1UiliLibnkf67Ws2/vrrCaWAmHJjTfult8uZFIUW41ibxy+GOZvzph2ctSB+S2wgd7Bwd1htHTByqCQDWewGAw3NdWkr2Zviy5ad1BkQbVhUUOxnvFH1cKXYEQeoW9p6DayXTSitAUF9KqTMD6iA7j7L0QMa3I6e7NgFKjPd0VQLmOC/JZeZexMmI7SOoNXIKbdBNOGfhSlPa4kNDoiDB5YnWT1eewYBCBiQvwdSmlxQaGC87ZRQYQWMFbiAuBfRW4cwd2rolZ1VH1Lg7aO5OcPcsV/NeTL8aD07FsvlBCHB7r7uPx8pzqDIiQWTolNxkMp80ljb2c19FkxQWcqm56nKlxerWp5jqdor/+5VO6jVUTi5vYp1E8umdwZlVQ10nXo7CYuykaODMsl2acwhYSIMLjkj4DNpGoWK+erWASWEj7pVFDzqW+QnL0ILsX4U+xf+3y6fE7cljLqdx3NRzlDHNAlExxt7WM0WqMMtA/+Vie2DaAZTzLleY1gKEe1N6UWk2ZslqzcTFRIMjCaIzvPoqLJjC+3P6AcjOvLK1UYFnuBT3KjK/epC7nM8+6UHmRjew6sHWlpL+SrKKtCeJbxiBPiRxLybB8B0DKPQao1Mm1CscAppFnjWDGjLBI8J5x/f0iZBkvqKUQWwA6TmtGpa6X0h2H1wVZQBN6MqIpLmSpfElEJYtN97Ld8j8iy5GnjL69KgFw5mj1KzqhT2oNRTBXrecap7I4KYI3SGrHwzfn0xjWo+y2TmqFxLkidgq5n8qBp2wuILTuvUEyCEOV2zVo5IqEtjuGutyZ4g3GJMJQ9vJxht3tUo949oVc11HHfZ4xGHXS2hZV6GYC9PklUhZvrBpg4JRLA==|920
+}//fsquP+dMFH423XrQ8nLfPoXyfIHlBRvt1LzcRXPv4A6102SixHUGQPjbbkNWKmUumb/4cuP8JrCebVgKlxk9E+l/Qzq8upgcci5EHkM8sS43/EStlYyjTk5pB5ozsSrrHSzPebNbp6V5TLuOqGr7N+Th05hSivIXmLK3qW2MJWHVz5yyA/SUnx5hALmS2Fdr18xzWs0eTmFMGPk33QARGhwdkK/DiYHlUKTOmZt6mE3oyUUm/ybPl7JXLrcNMI09Sp5Oi/QoN5K9pTucjrJMNZCbrJ8xjXi8yWnaqU7Mi1WOUlaFSEOaFFiRsp8GjME9dise/iPb7bpfz/mZkPDWWCcGfwGqEyPcyEqzg1zSGddWqdR4jw9oHggHrrgV9nMB6cQPhV4j+Njs89TcIIKlIO0WnXs0oHLi5QodYYNyouBMrifOV95Vvd3PLDJaT2r3px1CzqdyX2bFkwvk+TmfD+hEQOwsd72fEBVen92SMBRPj0B+boc130rRv5lNR7zw6I4HHiYzi99+3CH90UuQ4n878pEklUPbieKc2Z6809N1MaL2ODmi5G9gTZYbSM6ic0TJCRh3r9oa6zlNx0xXVQ1zghEy5EtcU731Jtx8+TcMiMpwVtGyjLQ6hjjqWzGzL2kqctmdPFGV1opIGudhdE89jBJu96GEe/5t70kMnyH0vOvNW1NdtGynbB0A1zTcVXREwndgOg4EdARxKc0Wo+MLMkUdyRNeYyy8tXOTKeolh279m9fReCCgdREDpSgpQlIK/aBse6/uHrKdv9Ujx5v7P2kQZtv2zs+yk+7jildzWBg9ESZ7ctE8xRfFmfc12TKxoHyly4Maa4aKYsedCkKQElcaM8bxakRjqbN7W0BtARt0L51qxmdfZ7U59y9/OBYMsQ2JqSKaRtLal1iGGg==|920

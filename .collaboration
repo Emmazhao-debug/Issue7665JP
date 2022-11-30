@@ -128,25 +128,10 @@
   },
   {
     "ModuleName": "UserControlPage/组件1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-30T17:36:24.4634545+08:00",
-    "ModuleType": 31,
-    "ToRemoveFiles": [
-      "UserControlPages\\组件1.json"
-    ]
+    "ModuleType": 31
   },
   {
     "ModuleName": "Image/oskar-smethurst-B1GtwanCbiw-unsplash.jpg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-30T17:36:07.0181089+08:00",
     "ModuleType": 38
   }
 ]
