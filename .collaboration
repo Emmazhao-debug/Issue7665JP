@@ -129,5 +129,15 @@
   {
     "ModuleName": "UserControlPage/组件1",
     "ModuleType": 31
+  },
+  {
+    "ModuleName": "Image/oskar-smethurst-B1GtwanCbiw-unsplash.jpg",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-30T17:36:07.0181089+08:00",
+    "ModuleType": 38
   }
 ]
