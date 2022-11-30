@@ -134,5 +134,15 @@
     "ToRemoveFiles": [
       "Pages\\Import Folder2\\全局变量.json"
     ]
+  },
+  {
+    "ModuleName": "UserControlPage/组件1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-30T17:35:21.5208507+08:00",
+    "ModuleType": 31
   }
 ]
